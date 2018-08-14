@@ -110,19 +110,21 @@ h6 {
 }
 
 .banner {
-    padding: 350px 0;
+    width:100%;
+    padding: 22% 100px 0px;
     color: #f8f8f8;
     background: url(../img/banner-bg.jpg) no-repeat center center;
-    background-size: cover;
+    background-size: 50% 600px;
 }
 
 .banner h2 {
     margin: 0;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    text-shadow: 3px 2px 3px rgba(0,0,0,0.6);
     font-size: 3em;
 }
 
 .banner ul {
+    margin-top:20%;
     margin-bottom: 0;
 }
 
